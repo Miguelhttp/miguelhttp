@@ -1,28 +1,55 @@
-### Olá! Eu sou Miguel Braga👋
+<img src="fallout (1).gif" style="width:auto, height:auto" />
 
-[![Blog](https://img.shields.io/website?label=MiguelBraga.com&style=for-the-badge&url=https://portfolio-miguelbraga.vercel.app/)](https://portfolio-miguelbraga.vercel.app)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelbalves_/)
 
-![miguelhttp GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelhttp&show_icons=true&theme=tokyonight)
+<h1 align="center">Hajimemashite 🙏 I'm Miguel Braga</h1>
 
-### Tecnologias que eu estudo no dia
-<div style="display: inline_block"><br>
-  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="Miguel-typescript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Miguel-Node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-braga-48a339234/)](https://www.linkedin.com/in/miguel-braga-48a339234/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://portfolio-miguelbraga.vercel.app/)](https://portfolio-miguelbraga.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@miguelbraga.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelalves1497@gmail.com)](mailto:miguelalves1497@gmail.com)
 
-<div>
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img align="center" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img align="center" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="node"/>
-</div><br/>
+<h2 align="center">Sobre mim</h2>
 
-ao meu vê criar programas não é so um trabalho, mas também uma arte que tem um valor estético
+<h4>
+🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação. 
+</h4>
+
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=Miguelhttp&show_icons=true&theme=omni"/>
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelhttp&layout=compact&theme=omni"/>
+</div>
+
+<br></br>
+
+<h3 align="center">⚡ Tecnologias e ferramentas em que tiver experiencia de uso</h3>
+
+</br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,notion" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,nodejs,linkedin" /><br>
+<img src="https://skillicons.dev/icons?i=pnpm,npm,sass" /><br>
+</div>
+
+</br>
+
+<div align="center">
+<h3>⚡ Repositórios pessoais</h3>
+<div style="display: flex; justify-content: center; gap: 10px;">
+<a href="https://github.com/Miguelhttp/projeto-studio-ghibli">
+<img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Miguelhttp&repo=projeto-studio-ghibli&theme=omni" />
+</a>
+</div>
+
+<h3>💻 Tech Stack</h3>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+</div>
